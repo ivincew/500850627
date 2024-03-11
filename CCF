@@ -1,0 +1,5 @@
+//Question 1: Use random tree to detect whether a transaction is fraud. (The factors lead to a fraud transaction.)
+
+//Question 2: Use logistic regression to detect the fraud transactions.
+
+//Question 3: Use Naive Bayes to train dataset to test the dataset. 
